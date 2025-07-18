@@ -1,6 +1,6 @@
 # llama.cpp推理框架
 ## 商品连接
-[llama.cpp推理框架](???)
+[llama.cpp推理框架](https://marketplace.huaweicloud.com/hidden/contents/afe5ad26-ef91-47ab-ba58-735c167af8b0#productid=OFFI1151329778610204672)
 
 ## 商品说明
 [llama.cpp](https://github.com/ggml-org/llama.cpp)采用纯 C/C++ 编写，无需任何外部依赖， 提供最佳的性能和跨平台兼容性，从嵌入式设备到高性能服务器都能流畅运行。
