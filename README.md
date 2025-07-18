@@ -20,7 +20,7 @@ Specially optimized for large language model inference, it supports quantization
 Supports multiple hardware platforms including CPU, GPU (CUDA, OpenCL, Metal), and is compatible with operating systems like Windows, macOS, and Linux to meet various deployment needs.<br>
 This product is provided as a pre-installed image on Huawei Cloud's HCE2.0 system (Kunpeng architecture).
 
-This project provides the open-source image product [**llama.cpp Inference Framework**](?????), which comes pre-installed with the llama.cpp inference framework and its related runtime environment, along with deployment templates. Follow the usage guide to easily enjoy an "out-of-the-box" efficient experience.
+This project provides the open-source image product [**llama.cpp Inference Framework**](https://marketplace.huaweicloud.com/intl/hidden/contents/6fa48dca-33e9-4922-9090-ea87415b4354), which comes pre-installed with the llama.cpp inference framework and its related runtime environment, along with deployment templates. Follow the usage guide to easily enjoy an "out-of-the-box" efficient experience.
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
