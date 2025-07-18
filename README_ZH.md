@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[llama.cpp推理框架](？？？)
+- 镜像商品：[llama.cpp推理框架](https://marketplace.huaweicloud.com/hidden/contents/afe5ad26-ef91-47ab-ba58-735c167af8b0#productid=OFFI1151329778610204672)
 - 镜像规格：llama.cpp-b5834-kunpeng
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
