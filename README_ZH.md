@@ -18,7 +18,7 @@
 支持 CPU、GPU（CUDA、OpenCL、Metal）等多种硬件平台， 兼容 Windows、macOS、Linux 等操作系统，满足各种部署需求。<br>
 本商品在鲲鹏云的上HCE2.0系统中进行安装后以镜像提供给用户使用。
 
-本项目提供的开源镜像商品 [**llama.cpp推理框架**](?????)，已预先安装llama.cpp推理框架及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**llama.cpp推理框架**](https://marketplace.huaweicloud.com/hidden/contents/afe5ad26-ef91-47ab-ba58-735c167af8b0#productid=OFFI1151329778610204672)，已预先安装llama.cpp推理框架及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2vCPUs 或更高
