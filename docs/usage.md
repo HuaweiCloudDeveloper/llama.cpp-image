@@ -1,6 +1,6 @@
 # llama.cpp Inference Framework
 ## Product Link
-[llama.cpp Inference Framework](???)
+[llama.cpp Inference Framework](https://marketplace.huaweicloud.com/intl/hidden/contents/6fa48dca-33e9-4922-9090-ea87415b4354)
 
 ## Product Description
 [llama.cpp](https://github.com/ggml-org/llama.cpp) is written purely in C/C++ without any external dependencies, delivering optimal performance and cross-platform compatibility that runs smoothly from embedded devices to high-performance servers.
